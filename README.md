@@ -21,4 +21,5 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+# 連携
+Redmine と連携 https://kawac2236.planio.jp
