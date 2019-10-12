@@ -20,7 +20,7 @@ services:
     environment:
       VIRTUAL_PORT: 80
     volumes:
-      - ./src:/app/src
+      - ./src:/app/src:cached
     depends_on:
       - postgres
     restart: always
